@@ -8,15 +8,15 @@ All the steps are documented in the [notebook](https://github.com/bdnf/sagemaker
 
 # Deployment Architecture
 
-[!Architecture](/assets/Web%20App%20Diagram.svg)
+![Architecture](./assets/Web%20App%20Diagram.svg)
 
 # Example web interface:
 
-[!Positive](./assets/positive.png)
+![Positive](./assets/positive.png)
 
-[!Negative](./assets/negative.png)
+![Negative](./assets/negative.png)
 
----- 
+----
 **Technologies used:**
 <br> Python 3.6
 <br> Libraries:
