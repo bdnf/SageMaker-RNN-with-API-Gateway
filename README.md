@@ -6,10 +6,29 @@ and deployment steps to create a simple functional web app in front of the creat
 
 All the steps are documented in the [notebook](https://github.com/bdnf/sagemaker-deployment/blob/master/SageMaker%20Project.ipynb).
 
-Techologies used:
-Python 3.6 with PyTorch library to Machine Learning
+# Deployment Architecture
+
+[!Architecture](/assets/Web%20App%20Diagram.svg)
+
+# Example web interface:
+
+[!Positive](./assets/positive.png)
+
+[!Negative](./assets/negative.png)
+
+---- 
+**Technologies used:**
+<br> Python 3.6
+<br> Libraries:
+- PyTorch to Machine Learning
+- pandas
+- numpy
+- nltk
+- beautifulsoup4
+- html5lib
+
 AWS:
-Sagemaker
-IAM
-Lambda
-API Gateway
+- Sagemaker
+- IAM
+- Lambda
+- API Gateway
